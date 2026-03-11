@@ -1,5 +1,6 @@
 # my-first-aws-project
-My learning journey into AWS and DevOps# My First AWS & DevOps Project
+My learning journey into AWS and DevOps
+
 
 ## Project Overview
 This repository is my professional workspace for learning Cloud Computing and DevOps automation.
